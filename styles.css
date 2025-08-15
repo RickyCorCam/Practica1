@@ -1,0 +1,28 @@
+body{
+    background-color: yellow;
+}
+header{
+    background-color: blue;
+    margin: 0;
+}
+footer{
+    background-color: blue;
+    margin: 0;
+}
+.header{
+    color: white;
+}
+.article{
+    color: blue;
+    font-size: 30px;
+}
+.footer{
+    color: white;
+}
+.pasatiempos{
+    border: 5px solid black;
+}
+.text{
+    border: 5px solid black;
+    font-size: 16px;
+}
